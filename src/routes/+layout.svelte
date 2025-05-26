@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '../css/reset.scss';
+	import '$css/reset.scss';
 </script>
 
 <slot />
